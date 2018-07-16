@@ -112,6 +112,7 @@ module.exports = {
       }
     },
     `gatsby-plugin-sharp`,
+    'gatsby-plugin-netlify-cms',
     `gatsby-transformer-sharp`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-catch-links`,
