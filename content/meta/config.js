@@ -1,28 +1,28 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Ruben Ruiz | Sharing Actionable Online Marketing Insights, Served In Bite-Sized Tutorials", // <title>
+  shortSiteTitle: "RubenRuiz.io", // <title> ending for posts and pages
+  siteDescription: "My name is Ruben Ruiz, I've quietly helped dozens of small businesses and startups implement online marketing strategies for the last decade. Now I'm taking all the know",
+  siteUrl: "https://rubenruiz.io",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "ruben ruiz",
+  authorTwitterAccount: "rubenstips",
   // info
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "RubenRuiz.io",
+  headerSubTitle: "Actionable Digital Marketing Insights",
   // manifest.json
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Ruben Ruiz | Internet Marketing Insights",
+  manifestShortName: "RubenRuiz", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/carpefukendiem" },
+    { name: "twitter", url: "https://twitter.com/rubenstips" },
+    { name: "facebook", url: "https://facebook.com/rubenstips" }
   ]
 };
