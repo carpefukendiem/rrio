@@ -68,6 +68,12 @@ class Header extends React.Component {
 
         {/* --- STYLES --- */}
         <style jsx>{`
+        
+          .header.jsx-2728220723.header.fixed.homepage a.logoType img.jsx-2728220723 {
+            background: -webkit-linear-gradient(top left, #0724cd, #092FDE, #6924dc, #cf25f3, #fd29fc);
+            background: -o-linear-gradient(top left, #0724cd, #092FDE, #6924dc, #cf25f3, #fd29fc);
+            background: linear-gradient(to bottom right, #0724cd, #092FDE, #6924dc, #cf25f3, #fd29fc);
+        }
           .header {
             align-items: center;
             justify-content: center;

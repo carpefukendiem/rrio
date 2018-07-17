@@ -61,7 +61,7 @@ color:
     dark: '#FF00FF'
     darkActive: '#FF00FF'
   special:
-    attention: &color-special-attention orange
+    attention: &color-special-attention royalblue
 # FONT
 font:
   # font options
