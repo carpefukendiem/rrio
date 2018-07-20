@@ -45,6 +45,16 @@ module.exports = {
     }
   },
   plugins: [
+  {
+    resolve: `gatsby-plugin-google-tagmanager`,
+    options: {
+      id: "GTM-PRB35PT",
+ 
+      // Include GTM in development.
+      // Defaults to false meaning GTM will only be loaded in production.
+      includeInDevelopment: false,
+    },
+  },
     `gatsby-plugin-react-next`,
     `gatsby-plugin-netlify-cms`,
     // `gatsby-plugin-styled-jsx`, // the plugin's code is inserted directly to gatsby-node.js and gatsby-ssr.js files
@@ -197,7 +207,7 @@ module.exports = {
       resolve: "gatsby-plugin-react-svg",
       options: {
         include: /svg-icons/
-      }
+      },
     }
   ]
 };
