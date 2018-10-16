@@ -3,15 +3,15 @@ backend:
   repo: carpefukendiem/rrio
 
 media_folder: static/assets
-public_folder: assets
 
 collections:
   - name: post
-    label: posts
+    label: Posts
     folder: src/posts
     create: true
     fields:
-      - { name: path, label: Path }
-      - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
-      - { name: body, label: Body, widget: markdown }
+      - { name: date, label: Create At, widget: date }
+      - { name: body, label: Post, widget: markdown }
+      - { name: image. label: Image, widget: image}
+      
