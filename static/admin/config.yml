@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: carpefukendiem/rrio
+  repo: carpefukendiem/rrio
 
 media_folder: static/assets
 public_folder: assets
