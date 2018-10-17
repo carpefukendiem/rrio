@@ -6,7 +6,7 @@ draft: false
 categories: seo
 tags:
   - seo hacks
-comments: true
+comments: false
 ---
 # This is so freaking great .Let's see if this works.
 
