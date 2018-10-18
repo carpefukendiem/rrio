@@ -1,6 +1,6 @@
 ---
 path: testing post
-title: test post
+title: What happens if I change the title on the test post
 date: '2018-10-18'
 draft: false
 categories: test
