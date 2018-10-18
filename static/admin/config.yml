@@ -21,6 +21,6 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", reuired: false}
       - { label: Author, name: author, widget: "author", default: Ruben Ruiz}
       - { label: "Header Image", name: image, widget: image, required: false}
-      - { label: Commenting, name: comments, widget: boolean, default: true}
+      - { label: Commenting, name: comments, widget: boolean, default: false}
       - { label: "Type", name: type, widget: hidden, default: "post"}
       - { label: "Body", name: "body", widget: "markdown"}
