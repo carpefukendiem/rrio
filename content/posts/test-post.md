@@ -1,13 +1,8 @@
 ---
-path: testing post
-title: test post
-date: '2018-10-18'
-draft: false
-categories: test
-tags:
-  - test
+title: How To Do Keyword Research Like a SAVAGE!
+category: "keyword research"
+cover: keyword-research-for-easy-seo-rankings.jpg
 author: Ruben Ruiz
-comments: false
-type: post
 ---
-test post
+
+Still Cooking .... Coming Soon!
