@@ -1,8 +1,8 @@
 ---
-title: Thank  You For 
+title: Thank  You! 
 ---
 
-## Thank You! Get Ready To Learn Some Really Cool Stuff
+## Get Ready To Learn Some Really Cool Stuff
 
 I'm so excited you've decided to take initiative in growing your local business (or are helping your clients grow theirs). 
 
